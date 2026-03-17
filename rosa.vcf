@@ -1,0 +1,18 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Rosa Johnson
+N:Johnson;Rosa;;;
+EMAIL;TYPE=INTERNET;TYPE=WORK:rosa@benfranklin740.com
+item1.TEL:(380) 209-7306
+item1.X-ABLabel:
+item2.ADR:;#106;1751 Pittsburgh Dr;Delaware;OH;43015-4518;US;1751 Pittsburg
+ h Dr\n#106\, Delaware\, OH 43015-4518\nUS
+item2.X-ABLabel:
+ORG:Benjamin Franklin Plumbing
+TITLE:Owner
+item3.URL:benjaminfranklinplumbing.com/delaware
+item3.X-ABLabel:_$!<HomePage>!$_
+PHOTO:https://lh3.googleusercontent.com/contacts/AG6tpzGnnfYCgbuSYBgvDw-_ca
+ k8mCq2ocxAvxfryOS7HX096detuMlJ
+CATEGORIES:myContacts
+END:VCARD
